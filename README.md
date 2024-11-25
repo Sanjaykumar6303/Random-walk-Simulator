@@ -1,1 +1,2 @@
 # Random-walk-simulator
+This project simulates random walks, a mathematical concept used to describe a sequence of steps in which each step is determined by chance. The walk is typically performed on a grid, where the next position is determined randomly at each step. Random walks have applications in various fields such as physics (for modeling diffusion), finance (to model stock prices), and computer science (in algorithms and optimizations).
